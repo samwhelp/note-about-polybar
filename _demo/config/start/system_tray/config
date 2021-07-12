@@ -1,0 +1,9 @@
+
+
+[bar/demo]
+modules-left = text_label
+tray-position = right
+
+[module/text_label]
+type = custom/text
+content = hi

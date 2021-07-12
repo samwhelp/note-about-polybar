@@ -1,0 +1,21 @@
+
+
+[bar/demo]
+modules-left = left_area
+modules-center = center_area
+modules-right = right_area
+
+
+[module/left_area]
+type = custom/text
+content = left
+
+
+[module/center_area]
+type = custom/text
+content = center
+
+
+[module/right_area]
+type = custom/text
+content = ight

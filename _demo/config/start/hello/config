@@ -1,0 +1,8 @@
+
+
+[bar/demo]
+modules-left = text_label
+
+[module/text_label]
+type = custom/text
+content = hi
