@@ -21,6 +21,15 @@ has_children: true
 
 * [Polybar](https://wiki.voidlinux.org/Polybar_-)
 
+
+## Config Demo
+
+* [https://github.com/adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes)
+* [https://github.com/archcraft-os/archcraft-i3wm/tree/main/src/archcraft-i3wm/i3/polybar](https://github.com/archcraft-os/archcraft-i3wm/tree/main/src/archcraft-i3wm/i3/polybar)
+* [https://github.com/archcraft-os/archcraft-style-bspwm/tree/main/bspwm/polybar](https://github.com/archcraft-os/archcraft-style-bspwm/tree/main/bspwm/polybar)
+* [https://github.com/leftwm/leftwm-community-themes](https://github.com/leftwm/leftwm-community-themes)
+
+
 ## Manjaro
 
 * manjaro 探索筆記 / polybar
