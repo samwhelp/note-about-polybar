@@ -12,7 +12,7 @@ run
 show
 
 ```
-notice: Parsing config file: config
+notice: Parsing config file: config.ini
 warn: No monitor specified, using "LVDS1"
 warn: No fonts specified, using fallback font "fixed"
 notice: Loaded font "fixed" (name=DejaVu Sans, offset=0, file=/usr/share/fonts/TTF/DejaVuSans.ttf)

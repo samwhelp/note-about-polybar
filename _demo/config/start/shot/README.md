@@ -10,11 +10,14 @@ run
 show
 
 ```
-notice: Parsing config file: config
+notice: Parsing config file: config.ini
 warn: No monitor specified, using "LVDS1"
 error: No modules created
 ```
 
+> error: No modules created
+
+Then See Example: [hello](../hello)
 
 ## Link
 
