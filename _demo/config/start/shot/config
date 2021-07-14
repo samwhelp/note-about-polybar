@@ -1,2 +1,4 @@
 [bar/demo]
 width=200
+
+; vim:ft=dosini
