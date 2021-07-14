@@ -10,7 +10,7 @@ run
 show
 
 ```
-notice: Parsing config file: config.ini
+notice: Parsing config file: config
 warn: No monitor specified, using "LVDS1"
 error: No modules created
 ```
