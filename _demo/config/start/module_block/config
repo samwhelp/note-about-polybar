@@ -18,4 +18,7 @@ content = center
 
 [module/right_area]
 type = custom/text
-content = ight
+content = right
+
+
+; vim:ft=dosini
