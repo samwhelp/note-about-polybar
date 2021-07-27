@@ -29,6 +29,7 @@ has_children: true
 * [https://github.com/archcraft-os/archcraft-i3wm/tree/main/src/archcraft-i3wm/i3/polybar](https://github.com/archcraft-os/archcraft-i3wm/tree/main/src/archcraft-i3wm/i3/polybar)
 * [https://github.com/archcraft-os/archcraft-style-bspwm/tree/main/bspwm/polybar](https://github.com/archcraft-os/archcraft-style-bspwm/tree/main/bspwm/polybar)
 * [https://github.com/leftwm/leftwm-community-themes](https://github.com/leftwm/leftwm-community-themes)
+* [https://github.com/taylor85345/leftwm-theme-garden/tree/main/polybar](https://github.com/taylor85345/leftwm-theme-garden/tree/main/polybar)
 
 
 ## Manjaro
