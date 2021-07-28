@@ -1,0 +1,18 @@
+
+## /usr/local/share/bash-completion/completions/polybarrc-get
+## $ sudo install -Dm644 ./polybarrc-get /usr/local/share/bash-completion/completions/polybarrc-get
+
+_polybarrc_get () {
+
+	local cur prev words cword
+	_init_completion || return
+
+	if [ "$cword" = "1" ]; then
+		local action_list=$(DEBUG_POLYBARRC_GET=false polybarrc-get self_actions)
+		COMPREPLY=( $( compgen -W "$action_list" -- "$cur" ) )
+	fi
+
+	return 0
+}
+
+complete -F _polybarrc_get polybarrc-get
